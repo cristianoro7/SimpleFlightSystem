@@ -1,0 +1,3 @@
+/home/desperado/CLionProject/keshe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/desperado/CLionProject/keshe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/desperado/CLionProject/keshe/cmake-build-debug/CMakeFiles/keshe.dir

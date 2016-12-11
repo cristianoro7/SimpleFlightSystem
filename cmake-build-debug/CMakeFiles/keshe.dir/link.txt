@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/keshe.dir/main.cpp.o  -o keshe 
