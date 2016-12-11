@@ -325,11 +325,7 @@ void deleteCustomerByPlaneNumber(Line_List &L, char *plane_number) {
 
 //=========view层===========\\
 
-void view_printf_author_info() {
-    printf("class: 计科三班\n");
-    printf("author: 林锦涛\n");
-    printf("ID: 3115004970\n");
-}
+
 
 void view_printf_tip() {
     printf("==========================\n");
@@ -505,7 +501,7 @@ void view_canel(Line_List &L) {
 void view_main_view(Line_List &L) {
     int control = 1;
     int manger;
-    view_printf_author_info();
+//    view_printf_author_info();
     while (control) {
         view_printf_tip();
         scanf("%d", &manger);
